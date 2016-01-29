@@ -19,5 +19,14 @@ La Page D'inscription
 
 ![Insciption](https://github.com/mouradmamassi/MCMC/blob/master/Presentation/Screenshot_2016-01-27-01-03-42.png)
 
+La Page INBOX et le Menu 
+
+![Inbox&Menu](https://github.com/mouradmamassi/MCMC/blob/master/Presentation/Screenshot_2016-01-27-01-07-37.png)
+
+La Page Friends
+
+![Friends](https://github.com/mouradmamassi/MCMC/blob/master/Presentation/Screenshot_2016-01-27-01-06-44.png)
+
+
 
 
