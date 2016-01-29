@@ -3,7 +3,7 @@ Bonjour Tous Le Monde :):)
 
 Mon Apllication permet au utulisateurs d'envoyer des Photos et des Videos entre eux.
 
-Pour Reussir cette Apllication j'ai utiliser http://parse.com/ Pou Avoir Sauvegarder les données, L'utilisation de Picasso http://square.github.io/picasso/ ,l'utilisation de gravatar https://fr.gravatar.com/ qui permet de recupire l'image a partir de l'adresse Email , Utilisation AndroidAssetStudio https://romannurik.github.io/AndroidAssetStudio/ .
+Pour Reussir cette Apllication j'ai utiliser http://parse.com/ Pou Avoir Sauvegarder les données, L'utilisation de Picasso http://square.github.io/picasso/ ,l'utilisation de gravatar https://fr.gravatar.com/ , Utilisation AndroidAssetStudio https://romannurik.github.io/AndroidAssetStudio/ .
 
 commençant par Demarrage de l'application 
 
