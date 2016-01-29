@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2011 The Android Open Source Project
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <!--<style name="AppBaseTheme" parent="Theme.AppCompat.Light">-->
+        <!--&lt;!&ndash;-->
+            <!--Theme customizations available in newer API levels can go in-->
+            <!--res/values-vXX/styles.xml, while customizations related to-->
+            <!--backward-compatibility can go here.-->
+        <!--&ndash;&gt;-->
+        <!--<item name="windowActionBar">false</item>-->
+    <!--</style>-->
+
+    <!-- Application theme. -->
+
+    <!--<style  name="Theme.Mc"parent="@style/Theme.AppCompat.Light">-->
+    <!--<style  name="Theme.Mc" parent="Theme.AppCompat.Light.NoActionBar">-->
+    <style  name="Theme.Mc" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowNoTitle">true</item> <!-- Hides the Action Bar -->
+        <item name="android:windowFullscreen">true</item> <!-- Hides the status bar -->
+        <item name="actionBarItemBackground">@drawable/selectable_background_mc</item>
+        <item name="popupMenuStyle">@style/PopupMenu.Mc</item>
+        <item name="dropDownListViewStyle">@style/DropDownListView.Mc</item>
+        <item name="actionBarTabStyle">@style/ActionBarTabStyle.Mc</item>
+        <item name="actionDropDownStyle">@style/DropDownNav.Mc</item>
+        <item name="actionBarStyle">@style/ActionBar.Solid.Mc</item>
+        <item name="actionModeBackground">@drawable/cab_background_top_mc</item>
+        <item name="actionModeSplitBackground">@drawable/cab_background_bottom_mc</item>
+        <item name="actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Mc</item>
+        <item name="android:editTextBackground">@drawable/apptheme_edit_text_holo_light</item>
+
+
+    </style>
+
+
+
+    <style name="ActionBar.Solid.Mc" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="background">@drawable/ab_solid_mc</item>
+        <item name="backgroundStacked">@drawable/ab_stacked_solid_mc</item>
+        <item name="backgroundSplit">@drawable/ab_bottom_solid_mc</item>
+        <item name="progressBarStyle">@style/ProgressBar.Mc</item>
+    </style>
+
+    <style name="ActionBar.Transparent.Mc" parent="@style/Widget.AppCompat.Light.ActionBar">
+        <item name="background">@drawable/ab_transparent_mc</item>
+        <item name="progressBarStyle">@style/ProgressBar.Mc</item>
+    </style>
+
+    <style name="PopupMenu.Mc" parent="@style/Widget.AppCompat.Light.PopupMenu">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_mc</item>
+    </style>
+
+    <style name="DropDownListView.Mc" parent="@style/Widget.AppCompat.Light.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_mc</item>
+    </style>
+
+    <style name="ActionBarTabStyle.Mc" parent="@style/Widget.AppCompat.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_mc</item>
+    </style>
+
+    <style name="DropDownNav.Mc" parent="@style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar">
+        <item name="android:background">@drawable/spinner_background_ab_mc</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_mc</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_mc</item>
+    </style>
+
+    <style name="ProgressBar.Mc" parent="@style/Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_mc</item>
+    </style>
+
+    <style name="ActionButton.CloseMode.Mc" parent="@style/Widget.AppCompat.Light.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_mc</item>
+    </style>
+
+    <!-- this style is only referenced in a Light.DarkActionBar based theme -->
+    <style name="Theme.Mc.Widget" parent="@style/Theme.AppCompat">
+        <item name="popupMenuStyle">@style/PopupMenu.Mc</item>
+        <item name="dropDownListViewStyle">@style/DropDownListView.Mc</item>
+    </style>
+
+
+    <!--&lt;!&ndash; Base application theme. &ndash;&gt;-->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+    <!--<style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />-->
+    <!--<style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />-->
+    <!--<style name="AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />-->
+    <!--<style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />-->
+
+    <!--<style name="Theme.Mc.NoActionBar">-->
+    <!--<item name="windowActionBar">false</item>-->
+    <!--<item name="windowNoTitle">true</item>-->
+    <!--</style>-->
+
+
+    <!--<style name="AppThemefutur" parent="Theme.AppCompat.Light.DarkActionBar">-->
+
+        <!--<item name="android:editTextBackground">@drawable/apptheme_edit_text_holo_light</item>-->
+
+    <!--</style>-->
+
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">#E85B0C</item>
+        <item name="tabIndicatorHeight">4dp</item>
+        <item name="tabBackground">?attr/selectableItemBackground</item>
+        <item name="tabTextAppearance">@style/MyCustomTabTextAppearance</item>
+        <!--<item name="tabBackground">@drawable/tab_indicator_ab_mc</item>-->
+    </style>
+
+    <style name="MyCustomListView" parent="Widget.AppCompat.ListView">
+        <item name="android:listViewStyle">@style/MyCustomListViewBackground</item>
+        <item name="android:gridViewStyle">@style/MyCustomListViewBackground </item>
+    </style>
+
+    <style name="MyCustomListViewBackground">
+        <item name="android:background">@color/light_orange_background</item>
+    </style>
+
+    <style name="MyCustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="AuthBackground">
+        <item name="android:background">@color/Auth_Background</item>
+    </style>
+    <style name="AuthTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/app_name</item>
+        <item name="android:layout_marginTop">32dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:textSize">60sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+
+
+    </style>
+    <style name="AuthSubTitle" parent="AuthTitle">
+        <item name="android:text">@string/subTitle </item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:layout_below">@+id/title</item>
+        <item name="android:layout_alignParentTop">false</item>
+        <item name="android:layout_marginTop">0dp</item>
+    </style>
+    <style name="AuthContainer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_below">@id/subtitle</item>
+        <item name="android:layout_marginTop">@dimen/login_vertical_margin</item>
+        <item name="android:layout_marginLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:layout_marginRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:paddingLeft">@dimen/login_horizontal_padding</item>
+        <item name="android:paddingRight">@dimen/login_horizontal_padding</item>
+        <item name="android:paddingTop">@dimen/login_vertical_padding</item>
+        <item name="android:paddingBottom">@dimen/login_vertical_padding</item>
+    </style>
+    <style name="AuthUsername" parent="android:Widget.EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:hint">@string/username_hint</item>
+        <item name="android:textColorHint">@color/light_gray</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:editTextBackground">@drawable/apptheme_edit_text_holo_light</item>
+    </style>
+    <style name="Authpassword" parent="android:Widget.EditText">
+        <item name="android:layout_width">match_parent</item>
+         <item name="android:layout_height">wrap_content</item>
+        <item name="android:inputType">textPassword</item>
+         <item name="android:ems">10</item>
+        <item name="android:hint">@string/password_hint</item>
+        <item name="android:textColorHint">@color/light_gray</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:editTextBackground">@drawable/apptheme_edit_text_holo_light</item>
+    </style>
+
+    <style name="AuthEmail" parent="AuthUsername">
+        <item name="android:hint">@string/email_hint</item>
+        <item name="android:layout_below">@+id/passwordField</item>
+        <item name="android:editTextBackground">@drawable/apptheme_edit_text_holo_light</item>
+    </style>
+
+    <style name="AutBtnLogin">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/login_btn_label</item>
+        <item name="android:onClick">Login</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_below">@id/editTextLayout</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:background">@drawable/button_setting</item>
+        <item name="android:layout_marginLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:layout_marginRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/dark_btn</item>
+    </style>
+    <style name="AutBtnSignUp" parent="AutBtnLogin">
+        <item name="android:text">@string/sign_up_btn_label</item>
+        <item name="android:onClick">SignUp</item>
+    </style>
+    <style name="Theme.Mc.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.Mc.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>

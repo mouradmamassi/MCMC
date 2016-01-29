@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="light_gray">#bbbbbb</color>
+    <color name="apptheme_color">#e1580c</color>
+    <color name="light_orange_btn">#FBEBE2</color>
+    <color name="focused_orange_btn">#E15B10</color>
+    <color name="pressed_orange_btn">#F3BC9E</color>
+    <color name="dark_btn">#FF3901</color>
+    <color name="Auth_Background">#E85B0C</color>
+    <color name="light_orange_background">#FBEBE2</color>
+
+</resources>

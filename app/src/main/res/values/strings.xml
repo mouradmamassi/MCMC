@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MC</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn_label">SIGN IN</string>
+    <string name="sign_up_text">You D\'ont Have account, Sign Up! :)</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_btn_label">SIGN UP</string>
+    <string name="signup_error_message">Please Make sur you enter a username, password and email</string>
+    <string name="signup_error_title">Oops!</string>
+    <string name="login_error_message">Please Make sur you enter a username and password Correct</string>
+    <string name="login_error_title">Oops!</string>
+    <string name="menu_logout_label">LogOut</string>
+    <string name="empty_inbox_label">No New Messages!</string>
+    <string name="empty_friends_label">Add friends to begin</string>
+    <string name="menu_edit_friends_label">Edit Friends</string>
+    <string name="title_activity_edit_firends">Edit Firends</string>
+    <string name="error_title">We\'re Sorry</string>
+    <string name="menu_camera_label">Camera</string>
+    <string name="error_external_storage">There was a problem accessing your Device\'s external storage.</string>
+    <string name="general_error"> Sorry, there is a Error !! </string>
+    <string name="warring_video_size">the Select Video Muste Be Less Than 10MB</string>
+    <string name="error_opening_file">error opening File </string>
+    <string name="error_size_video">the file Selected is to grate than 10MB</string>
+    <string name="choose_firend_msg">Choose Some Friends First !</string>
+    <string name="error_file_selected">the are was Error In your File Selected, please verified your File</string>
+    <string name="error_file_selected_title">Error Selected File</string>
+    <string name="sucess_message">Message Sent ! </string>
+    <string name="error_message">Error , please Resending You Message !</string>
+    <string name="subTitle">L3_info Le Havre Project</string>
+
+    <string name="action_send_label">Send</string>
+    <string-array name="camera_choices">
+        <item>Take Picture</item>
+        <item>Take Video</item>
+        <item>Choose Picture</item>
+        <item>Choose Video</item>
+    </string-array>
+    <string name="title_activity_receptacle">receptacle</string>
+    <string name="title_activity_view_image">ViewImage</string>
+    <string name="title_activity_modefy_firends">modefyFirends</string>
+</resources>

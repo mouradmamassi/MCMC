@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_signup" tools:context="com.l3info.utf.mm.MC.com.l3info.utf.mm.MC.ui.SignUpActivity"
+    style="@style/AuthBackground">
+
+    <TextView
+        android:id="@+id/title"
+        style="@style/AuthTitle"
+        />
+
+
+    <TextView
+        android:id="@+id/subtitle"
+        style="@style/AuthSubTitle"
+        />
+    <LinearLayout
+        android:id="@+id/editTextLayout"
+        style="@style/AuthContainer"
+        >
+
+    <EditText
+        android:id="@+id/usernameField"
+        style="@style/AuthUsername"
+         >
+        <requestFocus/>
+        </EditText>
+
+    <EditText
+        android:id="@+id/passwordField"
+        style="@style/Authpassword"
+      />
+
+    <EditText
+        android:id="@+id/emailField"
+        style="@style/AuthEmail"
+    />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonSignUp"
+        style="@style/AutBtnSignUp" />
+</RelativeLayout>
