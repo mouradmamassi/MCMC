@@ -1,5 +1,5 @@
 # MCMC
-Bonjour Tous Le Monde :):)
+Bonjour Tout Le Monde :):)
 
 Mon Apllication permet au utulisateurs d'envoyer des Photos et des Videos entre eux.
 
