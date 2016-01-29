@@ -1,11 +1,11 @@
 # MCMC
 Bonjour Tout Le Monde :):)
 
-Mon Apllication permet aux utulisateurs d'envoyer des Photos et des Videos entre eux.
+Application permet aux utilisateurs d'envoyer des photos et des vidéos entre eux.
 
-Pour Reussir cette Apllication j'ai utilisé http://parse.com/ Pou Avoir Sauvegarder les données, L'utilisation de Picasso http://square.github.io/picasso/ ,l'utilisation de gravatar https://fr.gravatar.com/ , Utilisation AndroidAssetStudio https://romannurik.github.io/AndroidAssetStudio/ .
+Pour Réussir cette apllication j'ai utilisé http://parse.com/ pour Avoir Sauvegarder les données, L'utilisation de Picasso http://square.github.io/picasso/ ,l'utilisation de gravatar https://fr.gravatar.com/ , l'utilisation AndroidAssetStudio https://romannurik.github.io/AndroidAssetStudio/ .
 
-commençant par Demarrage de l'application 
+Logo Application
 
 
 ![Demarrage](https://github.com/mouradmamassi/MCMC/blob/master/Presentation/Screenshot_2016-01-29-00-54-07.png)
