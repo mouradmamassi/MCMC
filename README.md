@@ -27,10 +27,27 @@ La Page Friends
 
 ![Friends](https://github.com/mouradmamassi/MCMC/blob/master/Presentation/Screenshot_2016-01-27-01-06-44.png)
 
-Menu Premet de Supprimer Un Message 
+Modifier/Ajouter Friends
+
+![Add/Remove Friends](https://github.com/mouradmamassi/MCMC/blob/master/Presentation/Screenshot_2016-01-27-01-07-24.png)
+
+Menu Camera
+
+![Camera](https://github.com/mouradmamassi/MCMC/blob/master/Presentation/Screenshot_2016-01-27-01-06-55.png)
+
+Supprimer Un Message 
 
 ![Supprimer Message](https://github.com/mouradmamassi/MCMC/blob/master/Presentation/Screenshot_2016-01-29-00-43-45.png)
 
+Lire Un Message 
 
+![Ouvrir Message](https://github.com/mouradmamassi/MCMC/blob/master/Presentation/Screenshot_2016-01-29-00-43-33.png)
 
+Creation de Dossier Pour Sauvgarder les Images et Les Videos
+
+![Creation de Dossier ](https://github.com/mouradmamassi/MCMC/blob/master/Presentation/Screenshot_2016-01-29-00-52-07.png)
+
+Notification Message
+
+![Notification Message ](https://github.com/mouradmamassi/MCMC/blob/master/Presentation/Screenshot_2016-01-29-00-50-37.png)
 
